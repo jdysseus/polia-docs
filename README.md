@@ -1,18 +1,20 @@
 ﻿# Polia Docs
 
-> 🌱 생각의 정원, 코드의 놀이터
+> 🌱 생각의 정원
 
-## 시작하며
+## 최근 글
 
-Hugo 피라미드신을 퇴치하고 Docsify로 새롭게 출발합니다! 🚀
+### [첫 번째 블로그 포스트](https://github.com/jdysseus/polia-docs/blob/main/blog/first-post.md)
+Hugo 피라미드신 퇴치하고 Docsify로 새출발!
 
-## 주요 콘텐츠
-
-- 📝 일상의 기록과 생각들
-- 💻 코딩 실험과 학습 노트  
-- 🚀 창업 준비 여정
-- 🧸 My-Notion 프로젝트 로그
+### [My-Notion 개발일지](https://github.com/jdysseus/polia-docs/blob/main/blog/my-notion-log.md)  
+개인 워크스페이스 직접 개발하기
 
 ---
 
-*"단순함이 최고의 정교함이다" - 레오나르도 다 빈치*
+## 프로젝트
+- 블로그 수익화
+- 재무관리 시스템
+- My-Notion 프로젝트
+
+*글 잘 보이면 다시 Docsify 설정 고치고, 안 되면 다른 블로그로 이사 갑시다...* 😮‍💨
